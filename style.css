@@ -1,0 +1,64 @@
+nav {
+    background-color: orange;
+    width: 100%;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item {
+    font-size: 30px;
+    padding-left: 10px ;
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.main-picture {
+    width: 100%;
+}
+
+.aboutus {
+    background-color: gray;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.paragraph {
+    font-size: 30px;
+
+}
+
+.content {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+footer {
+    background-color: rgb(99, 43, 4);
+    color: white;
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    justify-content: space-around;
+    position: relative;
+    font-size: 20px;
+}
+
+.background {
+    background-image: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+    height: 700px;
+    margin-bottom: 10px;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
